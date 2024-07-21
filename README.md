@@ -1,6 +1,12 @@
 # React + Vite
+#
+1)
 ![image1](https://github.com/user-attachments/assets/603c3c06-fc13-4926-88d2-0ba08278d4fd)
+#
+2)
 ![image2](https://github.com/user-attachments/assets/41990e04-ac10-4789-894a-406f2e77a35c)
+#
+3)
 ![image3](https://github.com/user-attachments/assets/f6481f2e-11c0-40b3-adc7-e6488cdf1b54)
 #
 [Visit my website from here](https://669d321fcddb9b0b929bdc79--clever-mandazi-797c56.netlify.app/)
